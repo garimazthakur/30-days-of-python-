@@ -1,1 +1,1 @@
-# Comprinno
+# 30 days of python 
